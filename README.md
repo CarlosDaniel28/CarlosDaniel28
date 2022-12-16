@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarlosDaniel28
-- 👀 I’m interested in Learn Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Learn Java
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on everything I can
 - 📫 How to reach me carlos_daniel33@yahoo.com
 
